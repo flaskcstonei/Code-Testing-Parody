@@ -1,0 +1,2 @@
+# Project Update
+Correct calculation of pro-rated subscription fees
